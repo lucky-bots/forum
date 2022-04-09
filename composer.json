@@ -2,7 +2,7 @@
     "name": "u0_a227/forum",
     "description": "forum",
     "require": {
-        "php": "^8.1"
+        "php": "^7.9"
     },
     "autoload": {
         "psr-4": {
