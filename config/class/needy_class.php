@@ -4,7 +4,7 @@
 
     public static $e;
     public static $database;
-    public static $DIR = "/";
+    public static $DIR = "";
     public static $GMAIL = "jjhu488@gmail.com";
     public static $GMAIL_PASSWORD = "Aakk0000";
 

@@ -1,4 +1,4 @@
-var DIR = "/";
+var DIR = "";
 
 //FUNCTION FOR LINK INDICATOR WHEN CLICKING ON DIFFERENT PAGES FROM FIXED NAVIGATION
 function LinkIndicator(elem){
